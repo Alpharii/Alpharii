@@ -5,8 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns:
 
---- ### 
-:fire: My Stats :
+--- 🔥 My Stats :
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alpharii)
 
