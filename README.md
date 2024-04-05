@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns:
 
+--- ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alpharii)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpharii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
