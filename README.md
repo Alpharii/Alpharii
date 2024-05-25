@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alpharii
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Structure, Algortihm and React JS
+- 🌱 I’m currently learning React JS and Golang
 - 😄 Pronouns: He/Him
 
 --- 🔥 My Stats :
