@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alpharii
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Express JS and Golang
+- 🌱 I’m currently learning Typescript and Nextjs
 - 😄 Pronouns: He/Him
 
 --- 🔥 My Stats :
