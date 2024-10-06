@@ -22,7 +22,7 @@ I'm passionate about **Web Development**
 
 - **Languages:** TypeScript, JavaScript, Go
 - **Frameworks/Libraries:** Next.js, React, Express, Tailwind
-- **Tools:** Git, Figma
+- **Tools:** Git, Figma, Ubuntu
 
 ---
 
