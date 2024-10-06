@@ -28,3 +28,5 @@ I'm passionate about **Web Development**
 
 ### 🌍 Find me around the web:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadbintangalphari)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/bintangalphari)
+
