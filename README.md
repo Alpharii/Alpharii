@@ -2,7 +2,7 @@
 
 I'm passionate about **Web Development**
 
-- 🌱 I’m currently learning **TypeScript** and **Next.js**
+- 🌱 I’m currently learning **Next.js** and **Golang**
 - 👀 I’m interested in creating fast, responsive, and scalable web apps.
 - 😄 Pronouns: He/Him
 
