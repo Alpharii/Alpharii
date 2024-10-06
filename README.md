@@ -27,4 +27,4 @@ I'm passionate about **Web Development**
 ---
 
 ### 🌍 Find me around the web:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/muhammadbintangalphari)
+- LinkedIn: [Muhammad Bintang Alphari](https://www.linkedin.com/in/muhammadbintangalphari)
