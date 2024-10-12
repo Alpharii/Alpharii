@@ -20,7 +20,7 @@ I'm passionate about **Web Development**
 ### 🚀 My Skills:
 
 - **Languages:** TypeScript, JavaScript, Go
-- **Frameworks/Libraries:** Next.js, React, Express, Tailwind
+- **Frameworks/Libraries:** Next.js, Vue.js, React, Express, Tailwind
 - **Tools:** Git, Figma, Ubuntu
 
 ---
