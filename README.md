@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello there I'm Muhammad Bintang Alphari 
 ⚡ I'm passionate about Web Development<br>🌱 I’m currently learning Next.js and Golang<br>👀 I’m interested in creating fast, responsive, and scalable web apps.<br>
 
 
