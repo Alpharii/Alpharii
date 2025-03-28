@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm passionate about Web Development<br>🌱 I’m currently learning RemixJs and Golang<br>👀 I’m interested in creating fast, responsive, and scalable web apps.
+⚡ I'm passionate about Web Development<br>🌱 I’m currently learning Solidity and BlockChain<br>👀 I’m interested in creating fast, responsive, and scalable web apps.
 
 
 ## 🌐 Socials:
