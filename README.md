@@ -12,7 +12,5 @@ https://codewars.com/users/Alpharii
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alpharii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpharii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css)<br />
-![](https://streak-stats.demolab.com/?user=alpharii)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alpharii)](https://git.io/streak-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
