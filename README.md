@@ -13,12 +13,14 @@
 
 - 📫 How to reach me **alphari404@gmail.com**
 
+- https://leetcode.com/u/alpharii/
+- https://www.codewars.com/users/Alpharii
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammadbintangalphari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadbintangalphari" height="30" width="40" /></a>
 <a href="https://fb.com/alphari.933660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alphari.933660" height="30" width="40" /></a>
 <a href="https://instagram.com/balphari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balphari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alpharii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alpharii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
