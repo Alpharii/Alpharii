@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Golang, and Remix js**
 
-- 👨‍💻 All of my projects are available at [https://portofolio-alphari.vercel.app/](https://portofolio-alphari.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://remix-portofolio-alphari.vercel.app/](https://remix-portofolio-alphari.vercel.app/)
 
 - 💬 Ask me about **NestJs, ExpressJs, ReactJs, NextJs**
 
