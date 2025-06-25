@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bintang Alphari</h1>
+<h1 align="center">Hello 👋, I'm Muhammad Bintang Alphari</h1>
 <h3 align="center">An ordinary web developer from Indonesia</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpharii&label=Profile%20views&color=0e75b6&style=flat" alt="alpharii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpharii" alt="alpharii" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, and Remix js**
+- 🌱 I’m currently learning **Rust, and Web3**
 
 - 👨‍💻 All of my projects are available at [https://remix-portofolio-alphari.vercel.app/](https://remix-portofolio-alphari.vercel.app/)
 
-- 💬 Ask me about **NestJs, ExpressJs, ReactJs, NextJs**
+- 💬 Ask me about **Golang, Rust, Typescript, ReactJs, NodeJs**
 
 - 📫 How to reach me **alphari404@gmail.com**
 
