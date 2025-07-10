@@ -1,32 +1,81 @@
-<h1 align="center">Hello 👋, I'm Muhammad Bintang Alphari</h1>
-<h3 align="center">An ordinary web developer from Indonesia</h3>
+<h1 align="center">Hi, I'm Muhammad Bintang Alphari 👋</h1>
+<h3 align="center">Fullstack Software Engineer | TypeScript, Golang, Laravel, Rust | Web3 & Blockchain Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpharii&label=Profile%20views&color=0e75b6&style=flat" alt="alpharii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpharii" alt="alpharii" /></a> </p>
-
-- 🌱 I’m currently learning **Rust, and Web3**
-
-- 👨‍💻 All of my projects are available at [https://remix-portofolio-alphari.vercel.app/](https://remix-portofolio-alphari.vercel.app/)
-
-- 💬 Ask me about **Golang, Rust, Typescript, ReactJs, NodeJs**
-
-- 📫 How to reach me **alphari404@gmail.com**
-
-- https://leetcode.com/u/alpharii/
-- https://www.codewars.com/users/Alpharii
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadbintangalphari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadbintangalphari" height="30" width="40" /></a>
-<a href="https://fb.com/alphari.933660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alphari.933660" height="30" width="40" /></a>
-<a href="https://instagram.com/balphari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="balphari" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://remix-portofolio-alphari.vercel.app" target="_blank">🌐 Portfolio Website</a> • 
+  <a href="mailto:alphari404@gmail.com">📬 Email</a> • 
+  <a href="https://www.linkedin.com/in/muhammadbintangalphari" target="_blank">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpharii&show_icons=true&locale=en&layout=compact" alt="alpharii" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpharii&show_icons=true&locale=en" alt="alpharii" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpharii&" alt="alpharii" /></p>
+- 🔭 I'm a **Fullstack Developer** who loves building robust applications using **TypeScript**, **Golang**, **Laravel**, and **Rust**.
+- 🌱 Currently diving deeper into **Rust**, **Solidity**, and **Web3 dApp Development**.
+- 👨‍💻 All my public projects are available on [my portfolio](https://remix-portofolio-alphari.vercel.app/).
+- 💡 I'm especially interested in how **blockchain** can reshape data ownership, identity, and trust.
+- 🧠 Ask me anything about:  
+  `TypeScript` • `Node.js` • `React / Remix / Next.js` • `Golang` • `Laravel` • `Rust` • `Smart Contracts`
+- 🎯 Looking for opportunities in **blockchain development**, **Web3 startups**, and **open-source collabs**.
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/muhammadbintangalphari" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/balphari" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://fb.com/alphari.933660" target="blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/alpharii/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.codewars.com/users/Alpharii" target="blank"><img src="https://img.shields.io/badge/-Codewars-B1361E?style=flat&logo=codewars&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+#### Tools & DevOps
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+#### Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-222222?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-f3f3f3?style=for-the-badge&logo=ethereum&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=alpharii&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpharii&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpharii&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Trophy Wall
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alpharii&theme=gruvbox&column=7&margin-w=10&margin-h=10" />
+</p>
