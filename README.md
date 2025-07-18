@@ -79,3 +79,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alpharii&theme=gruvbox&column=7&margin-w=10&margin-h=10" />
 </p>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Alpharii.Alpharii)
