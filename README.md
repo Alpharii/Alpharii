@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Software Engineer | TypeScript, Golang, Laravel, Rust | Web3 & Blockchain Enthusiast</h3>
 
 <p align="center">
-  <a href="https://remix-portofolio-alphari.vercel.app" target="_blank">🌐 Portfolio Website</a> • 
+  <a href="https://portofolio-ten-rust.vercel.app/" target="_blank">🌐 Portfolio Website</a> • 
   <a href="mailto:alphari404@gmail.com">📬 Email</a> • 
   <a href="https://www.linkedin.com/in/muhammadbintangalphari" target="_blank">LinkedIn</a>
 </p>
@@ -13,7 +13,7 @@
 
 - 🔭 I'm a **Fullstack Developer** who loves building robust applications using **TypeScript**, **Golang**, **Laravel**, and **Rust**.
 - 🌱 Currently diving deeper into **Rust**, **Solidity**, and **Web3 dApp Development**.
-- 👨‍💻 All my public projects are available on [my portfolio](https://remix-portofolio-alphari.vercel.app/).
+- 👨‍💻 All my public projects are available on [my portfolio](https://portofolio-ten-rust.vercel.app/).
 - 💡 I'm especially interested in how **blockchain** can reshape data ownership, identity, and trust.
 - 🧠 Ask me anything about:  
   `TypeScript` • `Node.js` • `React / Remix / Next.js` • `Golang` • `Laravel` • `Rust` • `Smart Contracts`
